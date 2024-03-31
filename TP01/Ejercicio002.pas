@@ -1,5 +1,5 @@
 
-Program Ejercicio02;
+Program Ejercicio002;
 
 Var num1,num2:integer;
 

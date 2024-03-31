@@ -1,4 +1,4 @@
-Program Ejercicio04;
+Program Ejercicio004;
 
 var num1: real;
 

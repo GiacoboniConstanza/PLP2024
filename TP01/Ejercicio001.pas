@@ -15,7 +15,7 @@
 }
 
 
-Program Ejercicio01;
+Program Ejercicio001;
     Var a, b, c, d, s: integer;
 
     Function alfa(e:integer; var f:integer): integer;

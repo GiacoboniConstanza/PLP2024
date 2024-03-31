@@ -1,4 +1,4 @@
-Program Ejercicio09;
+Program Ejercicio009;
 
 Var x, acumulador: integer;
 

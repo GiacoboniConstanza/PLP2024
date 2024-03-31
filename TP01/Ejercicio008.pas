@@ -1,4 +1,4 @@
-Program Ejercicio08;
+Program Ejercicio008;
 
 Var x, y: integer;
 

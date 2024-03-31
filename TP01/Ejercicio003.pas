@@ -3,7 +3,7 @@
     Funciones, como módulos que se utilizan en expresiones y que devuelven valores de distintos tipos.
 }
 
-Program Ejercicio03;
+Program Ejercicio003;
 
 const pi = 3.14;
 var num1: real;

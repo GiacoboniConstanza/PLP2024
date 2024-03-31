@@ -1,4 +1,4 @@
-Program Ejercicio11;
+Program Ejercicio011;
 
 Var x: real; n: integer;
 

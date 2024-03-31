@@ -1,4 +1,4 @@
-Program Ejercicio05;
+Program Ejercicio005;
 
 var num1,num2: integer;
 
